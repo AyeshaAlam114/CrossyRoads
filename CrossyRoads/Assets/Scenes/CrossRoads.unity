@@ -721,7 +721,6 @@ MonoBehaviour:
   turnSpeed: 45
   gravityModifier: 1
   jumpForce: 5
-  refGM: {fileID: 0}
   positionRef: {fileID: 1693249577}
   maxRange: 15
   minRange: -15

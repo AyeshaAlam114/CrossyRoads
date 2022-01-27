@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7502308566932718698}
+  - component: {fileID: 4347431256183101341}
   m_Layer: 0
   m_Name: Watersteps
   m_TagString: Untagged
@@ -36,6 +37,22 @@ Transform:
   m_Father: {fileID: 7502308568681563856}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!111 &4347431256183101341
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7502308566932718699}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 23670b47572639c499227890407a74b9, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 23670b47572639c499227890407a74b9, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &7502308567365103204
 GameObject:
   m_ObjectHideFlags: 0
@@ -605,7 +622,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5293522735842684135, guid: 1a29b0f3eb1c2134b978c03c79d1e337, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -30.8
+      value: -6.8
       objectReference: {fileID: 0}
     - target: {fileID: 5293522735842684135, guid: 1a29b0f3eb1c2134b978c03c79d1e337, type: 3}
       propertyPath: m_LocalPosition.y
@@ -915,7 +932,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5293522735842684135, guid: 1a29b0f3eb1c2134b978c03c79d1e337, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 25.2
+      value: 23.7
       objectReference: {fileID: 0}
     - target: {fileID: 5293522735842684135, guid: 1a29b0f3eb1c2134b978c03c79d1e337, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1039,7 +1056,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5293522735842684135, guid: 1a29b0f3eb1c2134b978c03c79d1e337, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.4
+      value: 18.2
       objectReference: {fileID: 0}
     - target: {fileID: 5293522735842684135, guid: 1a29b0f3eb1c2134b978c03c79d1e337, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1101,7 +1118,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5293522735842684135, guid: 1a29b0f3eb1c2134b978c03c79d1e337, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.5
+      value: 7.9
       objectReference: {fileID: 0}
     - target: {fileID: 5293522735842684135, guid: 1a29b0f3eb1c2134b978c03c79d1e337, type: 3}
       propertyPath: m_LocalPosition.y
